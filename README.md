@@ -27,4 +27,4 @@ Fertilizer overuse leads to environmental pollution and contributes significantl
 - Visualization of soil health and fertilizer impact
 - Clean and simple user interface
 
-## 📁 Project Structure
+
